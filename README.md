@@ -1,0 +1,2 @@
+# MineSweeperBot
+Bot for MineSweeper
