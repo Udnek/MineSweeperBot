@@ -1,7 +1,7 @@
 # MineSweeperBot
 Bot for MineSweeper
 
-Библиотеки - pyautogui, PIL, numpy
+Библиотеки - pyautogui, PIL, numpy, random, time.
 
 Для работы нужно запустить Main.py. Поиск левого верхнего края - FindCorner.py.
 В fUpLeftX, fUpLeftY в начале файла Main.py нужно ввести полученные данные в FindCorner.py.
